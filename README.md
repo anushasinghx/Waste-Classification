@@ -1,4 +1,4 @@
-# Waste CLassification Using Deep Learning
+# Waste Classification Using Deep Learning
 This project is a deep learning model developed to classify waste images into two categories: Organic and Recyclable. The model is trained using a dataset of images, and the classification task helps in segregating waste efficiently. The project is built using TensorFlow and Keras, with a ResNet50 base model for image feature extraction.
 
 ## Key Features
